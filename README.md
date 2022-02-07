@@ -11,6 +11,6 @@
 * jQuery
 
 
-[![Video Label](https://i9.ytimg.com/vi/qGIsGIZPuf0/mq1.jpg?sqp=CKD3no8G&rs=AOn4CLAPxILQQqpRjM5JSXFY0femW2hLdA)](https://www.youtube.com/watch?v=qGIsGIZPuf0)
+[![Video Label](https://user-images.githubusercontent.com/86874699/152732412-0e8375e3-14a7-489e-987f-00dd6c2af33c.jpg)](https://www.youtube.com/watch?v=qGIsGIZPuf0)
 
 ⬆⬆⬆ 클릭시 실행 영상으로 이동 ⬆⬆⬆
